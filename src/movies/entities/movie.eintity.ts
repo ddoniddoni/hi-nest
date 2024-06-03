@@ -4,3 +4,7 @@ export class Movie {
   year: number;
   genres: string[];
 }
+
+export class Test {
+  id: number;
+}
